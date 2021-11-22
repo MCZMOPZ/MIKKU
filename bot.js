@@ -41,7 +41,7 @@ fs.readdirSync('./plugins/sql/').forEach(plugin => {
 });
 
 const plugindb = require('./plugins/sql/plugin');
-var SOURAV = { KL11: '916282344739,0' }
+var SHADIN = { KL10: '918086567984,0' }
 
 // Yalnızca bir kolaylık. https://stackoverflow.com/questions/4974238/javascript-equivalent-of-pythons-format-function //
 String.prototype.format = function () {
@@ -71,8 +71,8 @@ var sourav = `${Sourav.AUTOBİO}`
              var time = new Date().toLocaleString('LK', { timeZone: 'Asia/Kolkata' }).split(' ')[1]
                 const get_localized_date = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
                 var date = new Date().toLocaleDateString(Sourav.LANG, get_localized_date)
-                const biography = '📅 ' + date + '\n⌚ ' + time + '\n\n' + Sourav.BOTSK
-                await raganork.setStatus(biography)
+                const biography = '📅 ' + date + '\n⌚ ' + time + '\n\n' + мͥєͭϲᷤнzᷟοͤ.PIKKU.BOT
+                await PIKKU.setStatus(biography)
             }
         }
 )
