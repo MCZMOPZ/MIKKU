@@ -1,4 +1,4 @@
-/* Copyright (c) Yusuf Usta & souravkl11
+/* Copyright (c) Yusuf Usta & MCZMOPZ
 Licenced under GNU
 Copying strictly proibited!
 */
